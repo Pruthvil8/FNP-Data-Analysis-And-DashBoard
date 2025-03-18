@@ -1,12 +1,12 @@
 # FNP-Data-Analysis-And-DashBoard
 Overview
-This report presents a comprehensive sales analysis for FNP (Ferns N Petals) based on 1,000 orders processed. The key performance indicators (KPIs) assessed include total revenue, average customer spending, order delivery time, and revenue distribution across various factors such as occasions, product categories, time of order, and location.
+This report presents a comprehensive sales analysis for FNP  based on 1,000 orders processed. The key performance indicators (KPIs) assessed include total revenue, average customer spending, order delivery time, and revenue distribution across various factors such as occasions, product categories, time of order, and location.
 
 Key Performance using below skils
 
-Power qurey for data clening 
-power pivot for data modeling 
-pivot table for data visualization
+-Power qurey for data clening 
+-power pivot for data modeling 
+-pivot table for data visualization
 
 Revenue Analysis
 Revenue by Occasions
